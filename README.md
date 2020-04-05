@@ -1,2 +1,2 @@
-# EVE-NG-Rectangle-Symbols
+# EVE-NG Blue Rectangle Symbols
 Blue Rectangle icons
